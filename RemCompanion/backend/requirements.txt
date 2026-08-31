@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+groq
+chromadb
+python-multipart
+pydantic
+pydantic-settings
+soundfile
+sounddevice
+SpeechRecognition
+PyAudio
